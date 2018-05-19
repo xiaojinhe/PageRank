@@ -2,7 +2,7 @@ PageRank Algorithm Using Apache Hadoop Framework
 
 To Execute the program:
 1) Install Hadoop
-2) Pick a dataset from http://snap.stanford.edu/data/#web or others with the input format: <sourceNode>\t<distNode>
+2) Pick a dataset from http://snap.stanford.edu/data/#web or others with the input format: sourceNode \t distNode
 3) Put the dataset file into Hadoop hdfs 
 4) Compile all the source codes and build a JAR
 5) Run the algorithm using Hadoop with five arguments (e.g. hadoop jar pr.jar Driver args1 args2 args3 args4 args5(optional))
