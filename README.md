@@ -1,6 +1,6 @@
-PageRank Algorithm Using Apache Hadoop Framework
+# PageRank Algorithm Using Apache Hadoop Framework
 
-To Execute the program:
+## To Execute the program:
 1) Install Hadoop
 2) Pick a dataset from http://snap.stanford.edu/data/#web or others with the input format: sourceNode \t distNode
 3) Put the dataset file into Hadoop hdfs 
